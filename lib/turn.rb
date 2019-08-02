@@ -9,4 +9,4 @@ end
 
 def valid_move(board, index)
   
-def 
+def input_to_index
